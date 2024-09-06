@@ -1,0 +1,13 @@
+Inicio
+1 - Abrir os olhos;
+2 - Levantar da cama;
+3 - Verificar se tem pão, se sim:
+	1 - Preparar o café;
+	2 - Tomar o café e comer o pão;
+4 - Se não:
+	1 - Ir comprar o pão;
+	2 - Preparar o café;
+	3 - Tomar o café e comer o pão;
+5 - Ir ao banheiro;
+6 - Escovar os dentes;
+Fim
